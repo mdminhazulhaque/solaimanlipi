@@ -11,7 +11,7 @@ SolaimanLipi, the popular Bangla Unicode font, is developed by [Solaiman Karim](
 Simple add the following line to HTML.
 
 ```html
-<link href='http://minhazul-haque.github.io/SolaimanLipi-Embed/css/SolaimanLipi.css' rel='stylesheet' type='text/css'>
+<link href='http://minhazul-haque.github.io/solaimanlipi/css/solaimanlipi.css' rel='stylesheet' type='text/css'>
 ```
 
 And then set the following CSS to the target element.
