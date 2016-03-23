@@ -1,4 +1,4 @@
-# SolaimanLipi-Embed
+# SolaimanLipi
 
 Embed SolaimanLipi to web pages and apps, the easiest way.
 
